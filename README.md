@@ -12,7 +12,8 @@
 
 - 📧 **podhigiridineshreddy619@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AsGVcy7Cnlld-hV0KFyDlJ2z_liwLuUm/view?usp=drive_link)
+- 📄 Know about my experiences [Resume]()
+<!-- https://drive.google.com/file/d/1AsGVcy7Cnlld-hV0KFyDlJ2z_liwLuUm/view?usp=drive_link -->
 
 <br />
 
